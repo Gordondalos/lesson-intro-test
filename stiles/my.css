@@ -1,0 +1,60 @@
+
+
+body {
+    background-color: wheat;
+}
+
+
+h1 {
+    color: green;
+    font-size: 50px;
+    background-color: rgba(4, 4, 66, 0.3);
+}
+
+* {
+    color: red;
+}
+
+p {
+    background: orange;
+}
+
+.my-class2 {
+    text-decoration: underline;
+    border: 3px solid red;
+    padding: 16px 8px 32px 5px;
+    margin-left: 10px;
+}
+
+#my-id-p {
+    height: 250px;
+    width: 150px;
+}
+
+h3 {
+    padding-top: 50px;
+}
+
+b {
+    width: 150px;
+    display: block;
+}
+
+img.my-image {
+    width: 100%;
+    max-width: 300px;
+}
+
+.div-img {
+    background-image: url("../assets/1.jpg");
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.f32 {
+    font-size: 32px;
+}
+
