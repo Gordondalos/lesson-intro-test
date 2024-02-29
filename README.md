@@ -19,6 +19,9 @@ https://htmlbook.ru/samhtml/struktura-html-koda html
         git remote add origin git@github.com:Gordondalos/lesson-intro-test.git
         git push -u origin master
 
+        git pull
+        git checkout -b lesson2
+
 
 
 html
