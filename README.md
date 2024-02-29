@@ -20,7 +20,7 @@ https://htmlbook.ru/samhtml/struktura-html-koda html
         git push -u origin master
 
         git pull
-        git checkout -b lesson2
+        git checkout lesson2
 
 
 
