@@ -1,0 +1,25 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "Уроки по введению в авто тестирование",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gordondalos/lesson-intro-test.git"
+  },
+  "author": "gordondalos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gordondalos/lesson-intro-test/issues"
+  },
+  "homepage": "https://github.com/Gordondalos/lesson-intro-test#readme",
+  "dependencies": {
+    "iiko-styles": "^1.0.2"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "typescritp": "^1.0.0"
+  }
+}
